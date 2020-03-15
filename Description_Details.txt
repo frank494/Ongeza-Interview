@@ -1,0 +1,15 @@
+Hello!
+My Name Is Frank Burchard
+This below is my short descrption on how to test and use my files, and Database
+
+Use mysql-server to import database WHICH IS CALLED "ongeza_test",
+
+You can use sublime text editor to check my source code or any editor supporing php files.
+
+Then, my supporting folders are zipped in rar, so in order to use it its better to unzip and use it after downloaded.
+
+Copy all files put in xamp-htdocs, you can create any folder in xampp and put all files and supporting folders and run into localhost, 
+
+eg,localhost/ongeza/index.php,then press Enter.
+
+I used xampp/php version 5.6.3.
